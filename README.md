@@ -1,1 +1,1 @@
-# slack-asses
+# slack-apps
